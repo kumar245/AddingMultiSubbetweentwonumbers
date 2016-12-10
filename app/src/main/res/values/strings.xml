@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AddingMultiSub between two numbers</string>
+    <string name="enter_the_first_number">Enter the First Number</string>
+    <string name="mult">MULT</string>
+    <string name="enter_the_second_number">Enter the second Number</string>
+    <string name="sub">SUB</string>
+    <string name="add">ADD</string>
+    <string name="div">DIV</string>
+    <string name="result">Result</string>
+</resources>
